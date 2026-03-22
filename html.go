@@ -77,8 +77,7 @@ const (
 </table>
 </div>
 </div>
-
-<div class="card blue">
+<div class="card orange">
 <div class="card-content white-text">
 <div class="card-title">Proxy that handled this request</div>
 </div>
